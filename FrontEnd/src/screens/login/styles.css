@@ -1,0 +1,112 @@
+.title {
+  color: rgb(45, 82, 153);
+}
+
+.forms {
+  max-width: 25rem;
+  padding: 1rem;
+}
+
+.form {
+  margin-bottom: 0.5rem;
+  /* max-width: 25rem; */
+  padding: 1rem;
+  align-self: center;
+}
+
+.cadastro {
+  margin-bottom: 1rem;
+  color: rgb(45, 82, 153);
+  align-self: center;
+  text-align: center;
+}
+
+.cadastro h5 {
+  margin-bottom: 1rem;
+}
+
+.input-error {
+  margin-top: 30px;
+}
+
+.span {
+  color: red;
+  position: absolute;
+  font-size: 12px;
+}
+
+.input {
+  border: 1px solid #eee;
+  width: 100%;
+  font-size: 1rem;
+  padding: 30px;
+  border-radius: 0.4rem;
+  background: #eee;
+  transition: 0.2s;
+}
+
+.input:focus,
+.input:hover {
+  outline: none;
+  border-color: rgb(45, 82, 153);
+  background: white;
+  box-shadow: 0 0 0 3px rgb(45, 82, 153);
+}
+
+.navlink {
+  text-decoration: none;
+  color: rgb(45, 82, 153);
+  font-size: 18px;
+}
+
+.navlink:link {
+  color: rgb(45, 82, 153);
+}
+
+.limite {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.lim-login {
+  max-width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  /* padding: 15px; */
+  background: rgb(45, 82, 153);
+}
+
+.wrap-login {
+  width: 1170px;
+  border-radius: 5px;
+  background: #fff;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.login-form {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 65px 65px 65px 65px;
+  flex-direction: column;
+}
+
+.login-img {
+  width: 100%;
+  position: relative;
+  z-index: 1;
+}
+
+.carousel-caption h3 {
+  color: rgb(237, 50, 55);
+  font-size: 40px;
+}
+
+.carousel-caption h4 {
+  color: white;
+  font-size: 40px;
+}

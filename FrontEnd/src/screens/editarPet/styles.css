@@ -1,0 +1,73 @@
+form {
+  border-color: rgb(45, 82, 153);
+}
+
+#petInfo {
+  background-color: rgb(45, 82, 153);
+  border-radius: 25px;
+  color: white;
+  box-shadow: 1px 2px 9px black;
+}
+
+#petBox {
+  /* background-color: rgb(33, 109, 167); */
+  border: 2px rgb(45, 82, 153) solid;
+  /* background-color: aliceblue; */
+  border-radius: 25px;
+  box-shadow: 1px 2px 9px black;
+}
+
+span {
+  color: red;
+  position: absolute;
+  padding-top: 2px;
+  font-size: 12px;
+}
+
+.texto {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 30px;
+  padding-bottom: -30px;
+}
+
+.line {
+  margin-top: 30px;
+}
+
+.glowing-border {
+  border: 2px solid #dadada;
+  border-radius: 7px;
+}
+
+.glowing-border:focus {
+  outline: none;
+  border-color: rgb(45, 82, 153);
+  box-shadow: 0 0 10px rgb(45, 82, 153);
+}
+
+/* #cancelar{
+    background-color: rgb(237, 50, 55);
+} */
+
+.picture {
+  border-radius: 25px;
+  border: 2px solid black;
+  margin: 5px;
+}
+
+.btn {
+  color: #f0f8ff;
+  outline-color: aliceblue;
+  outline: aliceblue;
+  background-color: rgb(45, 82, 153);
+  border-color: aliceblue;
+}
+
+.btn:hover {
+  color: rgb(45, 82, 153);
+  outline-color: rgb(45, 82, 153);
+  outline: rgb(45, 82, 153);
+  background-color: aliceblue;
+  box-shadow: 1px 2px 9px rgb(45, 82, 153)
+}

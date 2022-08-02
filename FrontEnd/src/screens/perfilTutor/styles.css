@@ -1,0 +1,8 @@
+.texto {
+  color: rgb(45, 82, 153);
+}
+
+#tutorBox {
+  border: 2px rgb(45, 82, 153) solid;
+  border-radius: 25px;
+}

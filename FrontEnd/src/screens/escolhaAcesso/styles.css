@@ -1,0 +1,31 @@
+.title {
+  text-align: center;
+  margin-bottom: 20px;
+  color: rgb(45, 82, 153);
+}
+
+.card {
+  width: 18rem;
+  margin-left: 50px;
+}
+
+.card:hover {
+  outline: none;
+  border-color: rgb(45, 82, 153);
+  background: white;
+  box-shadow: 0 0 0 3px rgb(45, 82, 153);
+}
+
+.img {
+  width: 100px;
+  align-self: center;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.img-user {
+  width: 100px;
+  align-self: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}

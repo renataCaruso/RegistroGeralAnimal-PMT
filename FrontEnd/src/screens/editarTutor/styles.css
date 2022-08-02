@@ -1,0 +1,10 @@
+#usuarioInfo {
+  background-color: rgb(45, 82, 153);
+  border-radius: 25px;
+  color: white;
+}
+
+#usuarioBox {
+  border: 2px rgb(45, 82, 153) solid;
+  border-radius: 25px;
+}

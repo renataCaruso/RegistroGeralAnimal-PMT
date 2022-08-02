@@ -1,0 +1,114 @@
+/* body {
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+
+}
+
+.container {
+    flex: 1;
+    align-self: center;
+    align-items: center;
+    justify-items: center;
+    background-color: blue;
+    border: 2px dashed red;
+    height: 100vh;
+}
+
+.row {
+    border: 2px solid chartreuse;
+    width: 90%;
+    height: 90%;
+} */
+
+span {
+  color: red;
+  position: absolute;
+  padding-top: 2px;
+  font-size: 12px;
+}
+
+.texto {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 30px;
+  /* padding-bottom: 30px; */
+}
+
+.btn {
+  background-color: rgb(45, 82, 153);
+}
+
+.line {
+  margin-top: 30px;
+}
+
+.glowing-border {
+  border: 2px solid #dadada;
+  border-radius: 7px;
+}
+
+.glowing-border:focus {
+  outline: none;
+  border-color: rgb(45, 82, 153);
+  box-shadow: 0 0 10px rgb(45, 82, 153);
+}
+
+/* #cancelar:hover,
+#cancelar {
+  background-color: rgb(237, 50, 55);
+  color: white;
+} */
+
+.termos {
+  margin-top: 4%;
+}
+
+.form-control {
+  border: 1px solid #eee;
+  display: block;
+  width: 100%;
+  font-size: 1rem;
+  padding: 0.5rem;
+  border-radius: 0.4rem;
+  background: #eee;
+  transition: 0.2s;
+  margin-top: 3px;
+}
+
+.form-control:focus,
+.form-control:hover {
+  outline: none;
+  border-color: rgb(45, 82, 153);
+  background: white;
+  box-shadow: 0 0 0 3px rgb(45, 82, 153);
+}
+
+a {
+  text-decoration: none;
+}
+
+.picture {
+  border-radius: 25px;
+  border: 2px solid black;
+  margin: 5px;
+}
+
+.botao {
+  border-radius: 5px;
+}
+
+.btn {
+  color: #f0f8ff;
+  outline-color: aliceblue;
+  outline: aliceblue;
+  background-color: rgb(45, 82, 153);
+  border-color: aliceblue;
+}
+
+.btn:hover {
+  color: rgb(45, 82, 153);
+  outline-color: rgb(45, 82, 153);
+  outline: rgb(45, 82, 153);
+  background-color: aliceblue;
+}

@@ -1,0 +1,162 @@
+.centered {
+  height: 50vh; /* Magic here */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cont-rga {
+  position: relative;
+  max-width: 100%;
+}
+
+.content-carteirinha {
+  width: 384px;
+  height: 218px;
+  left: 384px;
+  top: 97px;
+  background-image: url("../../image/RG\ Animal.png");
+  background-position: center;
+  background-size: cover;
+}
+
+.nomeTutor {
+  position: absolute;
+  width: 252px;
+  height: 19px;
+  left: 10px;
+  top: 56px;
+  font-size: 11px;
+  background: #ffffff;
+  border-radius: 5px;
+  padding-left: 3px;
+}
+
+.nomePet {
+  position: absolute;
+  width: 252px;
+  height: 19px;
+  left: 10px;
+  top: 81px;
+  font-size: 11px;
+  padding-left: 3px;
+
+  background: #ffffff;
+  border-radius: 5px;
+}
+
+.especie {
+  position: absolute;
+  width: 206px;
+  height: 19px;
+  left: 10px;
+  top: 105px;
+  font-size: 11px;
+  padding-left: 3px;
+  background: #ffffff;
+  border-radius: 5px;
+}
+
+.sexo {
+  position: absolute;
+  width: 42px;
+  height: 20px;
+  left: 220px;
+  top: 105px;
+  font-size: 11px;
+  padding-left: 2px;
+  background: #ffffff;
+  border-radius: 5px;
+}
+
+.raca {
+  position: absolute;
+  width: 173px;
+  height: 19px;
+  left: 10px;
+  top: 130px;
+  padding-left: 3px;
+  font-size: 11px;
+  background: #ffffff;
+  border-radius: 5px;
+}
+
+.dtnascimento {
+  position: absolute;
+  width: 147px;
+  height: 19px;
+  left: 10px;
+  top: 153px;
+  font-size: 11px;
+  padding-left: 3px;
+  background: #ffffff;
+  border-radius: 5px;
+}
+
+.dtvacinaRabica {
+  position: absolute;
+  width: 72px;
+  height: 19px;
+  left: 10px;
+  top: 186px;
+  padding-left: 3px;
+  font-size: 11px;
+
+  background: #ffffff;
+  border-radius: 5px;
+}
+
+.dtvacinaViral {
+  position: absolute;
+  width: 72px;
+  height: 19px;
+  left: 87px;
+  top: 186px;
+  font-size: 11px;
+  padding-left: 3px;
+  background: #ffffff;
+  border-radius: 5px;
+}
+
+.qrcode {
+  position: absolute;
+  width: 76px;
+  height: 76px;
+  left: 186px;
+  top: 129px;
+  background: #ffffff;
+}
+
+.foto {
+  position: absolute;
+  width: 100px;
+  height: 97px;
+  left: 270.9px;
+  top: 59px;
+  background: #ffffff;
+  border-radius: 5px;
+}
+
+.rga {
+  position: absolute;
+  width: 107px;
+  height: 19px;
+  left: 267px;
+  top: 164px;
+  padding-left: 3px;
+  font-size: 11px;
+  background: #ffffff;
+  border-radius: 5px;
+}
+
+.chip {
+  position: absolute;
+  width: 107px;
+  height: 19px;
+  left: 267px;
+  top: 186px;
+  padding-left: 3px;
+  font-size: 11px;
+  background: #ffffff;
+  border-radius: 5px;
+}
